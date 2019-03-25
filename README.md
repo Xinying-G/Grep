@@ -5,7 +5,6 @@ implement a Grep using C++
 ###### Name:           Xinying Guo
 ###### UserName:       XINYING
 
-## Comp15 PROJ2
 
 ### Purpose of the program
 ```
