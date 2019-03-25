@@ -2,20 +2,19 @@
 implement a Grep using C++
 
 
-### Name:           Xinying Guo
-### UserName:       XINYING
+###### Name:           Xinying Guo
+###### UserName:       XINYING
 
 ## Comp15 PROJ2
-```
-*****************************************************
+
 ### Purpose of the program
+```
 The purpose of the program is implement a grep. 
 Store all the word of specific 
 directory to a hash table and find them by Quering
-**********************************************************
-```
 ```
 ### Acknowledgements
+```
 Thanks for StackOver flow for providing me 
 information of debugging and hash table
 
@@ -24,7 +23,6 @@ provide hash function.
 
 Thanks for Comp15 TA give me a simpler metho to parse 
 srting to strip off non-alphabetic characters. 
-*********************************************************
 ```
 ### files and description:
 
@@ -59,7 +57,6 @@ This calss is for recieving command from command line and
 searching the word from hash table. When the word was being
 recieved, it can print out the directory, which line and the 
 contex of the line.
-**********************************************************
 ```
 
 ### DataStructure
@@ -76,7 +73,7 @@ For traverse tree, I used FSTree to traverse directory.
 
 ```
 
-Algorithm used:
+### Algorithm used:
 ```
 hash function
 *************************************************************
